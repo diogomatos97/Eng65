@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "atuwQMfLwKmCrZ1DPCwwQQpb8+KP5qQpu1g3DntavkkyBNli991q447AOAFzRH8eXytAzJWqDnjAvNUh9lHrvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diogo\\Documents\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

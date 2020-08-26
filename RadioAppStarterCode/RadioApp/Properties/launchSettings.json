@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RadioApp": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Diogo\\Documents\\RadioAppStarterCode\\WpfAppTest\\bin\\Debug\\netcoreapp3.1\\WpfAppTest.exe"
+    }
+  }
+}
